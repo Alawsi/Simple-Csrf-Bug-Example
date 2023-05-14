@@ -1,1 +1,1 @@
-# Simple-Csrf-Bug-Example
+# Simple Csrf Bug Example
